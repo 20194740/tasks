@@ -7,8 +7,41 @@ Question 1)
     x=x-y;
     console.log(`x = ${x} , y = ${y}`);
 
-    
+
 3)
+
+
+*/
+
+/*
+Question 2)
+1)String
+
+2)42
+  11
+  36
+  17
+
+3)error
+
+4)0
+  false
+  11
+
+5)error
+
+6)object
+ [5,0,1,2,3,4]
+  apple
+
+7)
+8)
+
+*/
+
+/*
+
+
 
 
 */
