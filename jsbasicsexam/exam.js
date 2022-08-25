@@ -22,7 +22,8 @@ Question 2)
   36
   17
 
-3)error
+3)Hello world
+  10
 
 4)0
   false
